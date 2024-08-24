@@ -4,13 +4,13 @@ Oi, meu nome é renan é aqui estão algumas informações sobre mim
 
 ### Linguas de programação e tecnologias que eu uso:
 - Lua (Majoritariamente para jogos, porem uso luvit para algumas ferramentas em linha de comando) 
-- c# (Winforms)
-- js (Um pouco de front-end e um pouco de Node.js)
-- php e mySql
+- C# (Winforms)
+- JS (Um pouco de front-end e um pouco de Node.js)
+- PHP e mySql
 - C++ (basico)
 
 ### Eu planejo aprender:
-- typeScript
+- TypeScript
 - Julia
 - React e React Native
 - GD Script
