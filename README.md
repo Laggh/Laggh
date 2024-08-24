@@ -1,4 +1,28 @@
-## Hi there 👋
+## Olá 👋
+[English version]()
+Oi, meu nome é renan é aqui estão algumas informações sobre mim
+
+### Linguas de programação e tecnologias que eu uso:
+- Lua (Majoritariamente para jogos, porem uso luvit para algumas ferramentas em linha de comando) 
+- c# (Winforms)
+- js (Um pouco de front-end e um pouco de Node.js)
+- php e mySql
+- C++ (basico)
+
+### Eu planejo aprender:
+- typeScript
+- Julia
+- React e React Native
+- GD Script
+- GLSL
+- C
+- C++ (avançado)
+
+### Specs do meu PC:
+- Positivo Motion plus Q464B
+- 64GB SD
+- 4 GB RAM
+- Intel Atom x5-Z8330 1.44GHz
 
 <!--
 **Laggh/Laggh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
