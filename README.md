@@ -1,5 +1,5 @@
 ## Olá 👋
-[English version]()
+[English version]() <br>
 Oi, meu nome é renan é aqui estão algumas informações sobre mim
 
 ### Linguas de programação e tecnologias que eu uso:
