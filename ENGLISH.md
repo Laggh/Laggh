@@ -19,10 +19,10 @@ Hi, my name is Renan and here are some info about me
 - C++ (avançado)
 
 ### PC Specs:
-- Positivo Motion plus Q464B
-- 64GB SD
-- 4 GB RAM
-- Intel Atom x5-Z8330 1.44GHz
+- Dell inspiron 3421
+- I3 3217u 1.8GHZ
+- 1TB HDD
+- 12 GB DDR3 RAM
 
 <!--
 **Laggh/Laggh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
