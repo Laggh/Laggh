@@ -4,23 +4,20 @@ Hi, my name is Renan, and here are a few things about me:
 ### Programming languages and technologies I use:
 - Lua (Mostly for games, but I also use Luvit to build some command-line tools)  
 - C# (WinForms)  
-- JavaScript (React, React Native, and Node.js)  
+- JS/TS (React, React Native, Node.js and p5.js)  
 - PHP (Vanilla and Laravel)  
 - C/C++ (Basic knowledge)
 
 ### Technologies I plan to learn:
-- TypeScript  
-- Julia  
-- React and React Native  
+- Julia   
 - GDScript  
 - GLSL  
 - C (Advanced)
 
-### PC Specs:
-- Dell Inspiron 3421  
-- Intel i3-3217U @ 1.8GHz  
-- 1TB HDD  
-- 12GB DDR3 RAM  
+### Specs do meu PC:
+- Ryzen 5600GT
+- 480GB SSD
+- 16GB DDR4 RAM
 
 <!--  
 **Laggh/Laggh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
