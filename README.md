@@ -18,10 +18,9 @@ Oi, meu nome é renan é aqui estão algumas informações sobre mim
 - C (avançado)
 
 ### Specs do meu PC:
-- Dell inspiron 3421
-- I3 3217u 1.8GHZ
-- 1TB HDD
-- 12 GB DDR3 RAM
+- Ryzen 5600GT
+- 480GB SSD
+- 16GB DDR4 RAM
 
 <!--
 **Laggh/Laggh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
