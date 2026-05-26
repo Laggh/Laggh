@@ -5,7 +5,7 @@ Hi, my name is Renan, and here are a few things about me:
 - Lua (Mostly for games, but I also use Luvit to build some command-line tools)  
 - C# (WinForms)  
 - JS/TS (React, React Native, Node.js and p5.js)  
-- PHP (Vanilla and Laravel)  
+- PHP (WordPress and Laravel)  
 - C/C++ (Basic knowledge)
 
 ### Technologies I plan to learn:
@@ -14,7 +14,7 @@ Hi, my name is Renan, and here are a few things about me:
 - GLSL  
 - C (Advanced)
 
-### Specs do meu PC:
+### PC's Specs:
 - Ryzen 5600GT
 - 480GB SSD
 - 16GB DDR4 RAM
