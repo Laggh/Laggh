@@ -6,7 +6,7 @@ Oi, meu nome é renan é aqui estão algumas informações sobre mim
 - Lua (Majoritariamente para jogos, porem uso luvit para criar algumas ferramentas em linha de comando) 
 - C# (Winforms)
 - JS/TS (React, React-Native, Node.js e p5.js)
-- PHP (Puro e Laravel)
+- PHP (WordPress e Laravel)
 - C/C++ (basico)
 
 ### Eu planejo aprender:
